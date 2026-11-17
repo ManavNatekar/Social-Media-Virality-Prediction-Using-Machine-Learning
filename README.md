@@ -218,5 +218,3 @@ For better real-world predictions, the model should be trained using actual hist
 ## 👨‍💻 Author
 
 **Manav Natekar**
-
-**Disclaimer:** This project is developed for educational and demonstration purposes. Predictions are estimates based on a model trained using synthetic data and do not guarantee that a post or reel will go viral.
