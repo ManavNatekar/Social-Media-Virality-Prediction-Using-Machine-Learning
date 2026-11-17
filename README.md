@@ -1,7 +1,7 @@
 
-# 🚀 Social Media Virality Prediction Using Machine Learning
+# 🚀 Social Media Virality Prediction Using Machine Learning | Python
 
-### Predicting the Viral Potential of Social Media Posts Using Machine Learning | Python
+### Predicting the Viral Potential of Social Media Posts Using Machine Learning and Early Engagement Analytics
 
 ## 📌 Project Overview
 
